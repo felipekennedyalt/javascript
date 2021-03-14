@@ -1,0 +1,15 @@
+div{
+    background: orangered;
+    border-color: black;
+    width: 300px;
+    text-align: center;
+    margin-left: 35%;
+}
+div#conversor{
+    text-shadow:2px 2px gainsboro;
+}
+
+div#res{
+text-shadow: 1px 1px blanchedalmond;
+
+}
